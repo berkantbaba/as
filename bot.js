@@ -24,4 +24,4 @@ console.log('NEGRONN');
 
 });
 
-bot.login(process.env.BOT_TOKEN);"NDQwOTI0MTgyMDg0MDU5MTM3.Dgptkw.8Jblowzi59Ou1Q6UDK42YCMeuyQ"
+bot.login(process.env.BOT_TOKEN);
