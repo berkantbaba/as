@@ -6,7 +6,7 @@ var fs = require('fs');
 // -->COMMANDS<--
 
 bot.on('guildMemberAdd',member =>{
-    member.send('** :trident: Lonely Kingdom :trident: PROJESI**https://discord.gg/HZgGstd\n**COVER**https://ibb.co/iXrjoo');
+    member.send('** :trident: Lonely Kingdom :trident: PROJESI**https://discord.gg/zruSq2h\n**COVER**https://ibb.co/iXrjoo');
 
     //member.guild.defaultChannel.sendmessage(`Welcome "${member.user.username}"! Be sure to set your platform by typing "!role"`);
 
